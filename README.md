@@ -1,4 +1,4 @@
-# SimpleContactron
+# SimpleContactor
 Simple contactron connecting with remote mqtt broker based on esp8266 NodeMcu
 This is part of submission for university subject with the shortest acronime possible -- UMPANUMiW
 
